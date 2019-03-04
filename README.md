@@ -14,3 +14,4 @@
 
 **二月**：[第三期](https://github.com/crazylxr/weekly/blob/master/docs/doc-3.md) | [第二期](https://github.com/crazylxr/weekly/blob/master/docs/doc-2.md) | [第一期](https://github.com/crazylxr/weekly/blob/master/docs/doc-1.md)
 
+文章会同步到公众号：【前端桃园】，个人网站：[前端桃园](http://www.taoweng.site/)
